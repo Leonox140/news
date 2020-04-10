@@ -1,0 +1,21 @@
+/* CSS Documento */
+
+/* comentário */
+body{
+    font-size:15px; color:#000; font-family:verdana, arial, san-serif;
+margin-top: 5%;
+margin-left: 10%;
+margin-bottom: 5%;
+margin-right: 10%}
+H1 {text-align: center;}
+p,H2,H3 {margin-left: 20px;}
+p,H2,H3 {margin-right: 20px;}
+
+#img {max-width: 1024px; max-height: 720px;
+margin-top: 5%;
+margin-left: 20%}
+
+#divisoria{
+    background-color:#F0F8FF;
+}
+
